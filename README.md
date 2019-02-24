@@ -4,7 +4,7 @@
 * Focused on Android User Interface elements and Java
 * Technologies: Android Studio, Java
 
-### Prerequisites
+## Prerequisites
 
 Android Studio
 
